@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SonnyHT
 - 👀 I’m interested in Full Stack Software Engineering
-- 🌱 I’m currently learning Python and CSS!
+- 🌱 I’m currently learning Python, HTML, and CSS!
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 You can reach me at @Sonny4846 on Discord!
 
